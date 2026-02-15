@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "消えちゃう前に",
+  "base_artist": "Cö shu Nie",
+  "createdAt": "2026-02-15T00:24:39.777275Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "消えちゃう前に",
+      "artist": "Cö Shu Nie",
+      "has_synced": true,
+      "path": "select/01_消えちゃう前に_Cö_Shu_Nie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "消えちゃう前に",
+      "artist": "Co shu Nie",
+      "has_synced": false,
+      "path": "select/pl_01_消えちゃう前に_Co_shu_Nie.txt"
+    }
+  ]
+}
